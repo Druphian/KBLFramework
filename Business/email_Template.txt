@@ -1,0 +1,14 @@
+Subject:<ProcessName>: <Status> - <Status_Message> - <UniqID>
+Body:<p><span style="font-family: georgia, palatino; font-size: 10pt;">
+Hi <Email_To_NamesString><br>
+<br>
+Text Here<br>
+<br>
+Status: <Status><br>
+Status Message: <Status_message><br>
+UniqID: <UniqID><br>
+<br>
+Regards<br>
+<ProcessName></span></p>
+<p><span style="font-family: georgia, palatino; font-size: 8pt;">
+For further help, contact RPA support at: <RPA_Support></p>

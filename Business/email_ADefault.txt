@@ -1,0 +1,16 @@
+Subject:<ProcessName>: <Status>
+Body:<p><span style="font-family: georgia, palatino; font-size: 10pt;">
+Hi <Email_To_NamesString><br>
+<br>
+Something unexpected happened during the process.<br>
+Please check the issue and try again, before forwarding the information bellow, along with your own description, to RPA support at <RPA_Support>.<br>
+<br>
+Status: <Status><br>
+Status Message: <Status_Message><br>
+UniqID: <UniqID><br>
+<br>
+TechnicalInfo: <Status_TechnicalInfo><br>
+RobotID: <Robot_ID><br>
+<br>
+Regards<br>
+<ProcessName></span></p>
